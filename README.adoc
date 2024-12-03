@@ -1,0 +1,32 @@
+= CalConnect branding assets
+
+== Purpose
+
+This repository contains branding assets of CalConnect, including:
+
+* the CalConnect logo and its multiple forms
+
+== Logo
+
+Design source provided at:
+
+`logo/calconnect-logo-all.pdf`:: all logo forms in Adobe Illustrator format.
+
+`logo/*`:: immediately useable logo assets generated from the source file (with
+"Export As..." then "Use Artboards").
+
+`logo-old/`:: old logos for archival purposes.
+
+
+== License and copyright
+
+Permission is granted to CalConnect Members to use the CalConnect Logo
+to represent their membership in and involvement with CalConnect. You
+may not use the logo in any way whatsoever that would suggest or imply
+CalConnect approval or endorsement of any organization, product, system,
+or service. We request that you provide CalConnect with a link to online
+material making use of the CalConnect Logo.
+
+The CalConnect Logo is Copyright © by The Calendaring and Scheduling
+Consortium, Inc.
+
